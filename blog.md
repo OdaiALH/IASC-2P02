@@ -14,7 +14,6 @@ Sources:
 <p>Jockers, Matthew L. Macroanalysis: Digital Methods and Literary History. Urbana: U of Illinois P, 2013.
 Kirschenbaum, “What is ‘Digital Humanities,’ and Why Are They Saying Such Terrible Things about It?” differences 25.1 (2014): 46-63.</p>
  
-
   
   
 
