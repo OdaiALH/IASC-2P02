@@ -8,10 +8,10 @@ Are these the biggest problems for our society?”  While Prof Lachman does advo
 <iframe style='width: 800px; height: 800px;' src='https://voyant-tools.org/tool/Trends/?query=digital&query=humanities&query=computing&query=work&query=like&corpus=c9d23a88201fc23eaeefb8408329092e'></iframe>
  
 Sources:
-Lachman, Richard. “STEAM Not STEM: Why Scientists Need Arts Training.” The Conversation, 11 Nov. 2019, theconversation.com/steam-not-stem-why-scientists-need-arts-training-89788.<br>
-Tavris, Carol. “Psychology and Its Discontents.” The Wall Street Journal, Dow Jones & Company, 25 Apr. 2012, www.wsj.com/articles/SB10001424052702304537904577277760260276148.<br>
-Blanchard, Matt, and Barry A. Farber. “Lying in Psychotherapy: Why and What Clients Don’t Tell Their Therapist about Therapy and Their Relationship.” Counselling Psychology Quarterly, vol. 29, no. 1, 2015, pp. 90–112.<br>
-Jockers, Matthew L. Macroanalysis: Digital Methods and Literary History. Urbana: U of Illinois P, 2013.
+<br> Lachman, Richard. “STEAM Not STEM: Why Scientists Need Arts Training.” The Conversation, 11 Nov. 2019, theconversation.com/steam-not-stem-why-scientists-need-arts-training-89788.<br>
+<br>Tavris, Carol. “Psychology and Its Discontents.” The Wall Street Journal, Dow Jones & Company, 25 Apr. 2012, www.wsj.com/articles/SB10001424052702304537904577277760260276148.<br>
+<br>Blanchard, Matt, and Barry A. Farber. “Lying in Psychotherapy: Why and What Clients Don’t Tell Their Therapist about Therapy and Their Relationship.” Counselling Psychology Quarterly, vol. 29, no. 1, 2015, pp. 90–112.<br>
+<br>Jockers, Matthew L. Macroanalysis: Digital Methods and Literary History. Urbana: U of Illinois P, 2013.
 Kirschenbaum, “What is ‘Digital Humanities,’ and Why Are They Saying Such Terrible Things about It?” differences 25.1 (2014): 46-63.<br>
  
 
