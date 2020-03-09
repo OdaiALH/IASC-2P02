@@ -6,4 +6,4 @@ I'm a 2nd year IASC student, hoping to graduate and find a job in game design.
 
 
 ## Blog post
-I disagree with the notion that a scientific approach and a humanitarian approach should not or cannot be used together. <a href="https://github.com/OdaiALH/IASC-2P02/blob/master/blog.md">Read More</a>
+I disagree with the notion that a scientific approach and a humanitarian approach should not or cannot be used together. <a href="https://odaialh.github.io/IASC-2P02/blog">Read More</a>
